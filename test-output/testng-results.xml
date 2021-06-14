@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14461" started-at="2021-06-13T20:39:09Z" finished-at="2021-06-13T20:39:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14461" started-at="2021-06-13T20:39:09Z" finished-at="2021-06-13T20:39:24Z">
+      <class name="devon.TestCase">
+        <test-method status="PASS" signature="startDriver()[pri:0, instance:devon.TestCase@754ba872]" name="startDriver" is-config="true" duration-ms="3825" started-at="2021-06-13T20:39:09Z" finished-at="2021-06-13T20:39:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="SearchDevice()[pri:0, instance:devon.TestCase@754ba872]" name="SearchDevice" duration-ms="10367" started-at="2021-06-13T20:39:13Z" finished-at="2021-06-13T20:39:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchDevice -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:devon.TestCase@754ba872]" name="closeDriver" is-config="true" duration-ms="232" started-at="2021-06-13T20:39:23Z" finished-at="2021-06-13T20:39:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- devon.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
